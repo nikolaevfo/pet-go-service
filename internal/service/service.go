@@ -1,7 +1,7 @@
 package service
 
 import(
-	"go-service/internal/api"
+	"github.com/nikolaevfo/pet-go-service/internal/api"
 )
 
 type Service struct{

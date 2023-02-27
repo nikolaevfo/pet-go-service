@@ -2,7 +2,7 @@ package handler
 
 import (
 	"fmt"
-	"go-service/internal/service"
+	"github.com/nikolaevfo/pet-go-service/internal/service"
 	"net/http"
 )
 

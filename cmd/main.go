@@ -2,12 +2,13 @@ package main
 
 import (
 	"fmt"
-	"go-service/internal/api"
-	"go-service/internal/handler"
-	"go-service/internal/service"
+	"github.com/nikolaevfo/pet-go-service/internal/api"
+	"github.com/nikolaevfo/pet-go-service/internal/handler"
+	"github.com/nikolaevfo/pet-go-service/internal/service"
 	"net/http"
 	_ "net/http/pprof"
 	"time"
+
 )
 
 
